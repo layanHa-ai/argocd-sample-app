@@ -8,7 +8,7 @@ spec:
     app: guestbook
   ports:
     - port: 80
-      targetPort: 80
+      targetPort: 8079
       nodePort: 30008
 
 
